@@ -158,7 +158,7 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-**Yashasvi Pandey**  
+**Yashasvi Pandey** , **Mahek Aggarwal**, **Harsh Teotia**
 BCA Student | Full Stack Developer  
 
 ---
