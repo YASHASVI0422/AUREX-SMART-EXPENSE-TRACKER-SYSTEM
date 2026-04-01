@@ -100,7 +100,7 @@ Aurex/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/aurex.git
+git clone https://github.com/your-username/AUREX-SMART-EXPENSE-TRACKER-SYSTEM.git
 ```
 
 2. Move project to:
